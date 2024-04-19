@@ -216,7 +216,7 @@ ul a{
     align-items: center;
 }
 .logo{
-    background-image: url("image.jpeg");
+    background-image: url("imgs/image.jpeg");
     background-size: cover;
     height: 50px;
     width: 100px;
